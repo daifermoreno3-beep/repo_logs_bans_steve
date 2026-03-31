@@ -1,5 +1,14 @@
 [
     {
+        "timestamp": "2026-03-31 02:05:13",
+        "user": "Sistema\/Anónimo",
+        "ip": "45.163.207.26",
+        "action": "INTENTO DE ACCESO RECHAZADO: Usuario 'Admin_Maestro'",
+        "details": {
+            "ip": "45.163.207.26"
+        }
+    },
+    {
         "timestamp": "2026-03-31 02:04:33",
         "user": "Admin_Maestro",
         "ip": "45.163.207.26",
