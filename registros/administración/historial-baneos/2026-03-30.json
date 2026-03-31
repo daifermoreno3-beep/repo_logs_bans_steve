@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "2026-03-30 23:45:02",
+        "user": "Lenikerz",
+        "ip": "45.163.207.26",
+        "action": "Registró un baneo nuevo",
+        "details": {
+            "nick": "dfd",
+            "ip": "fdfd",
+            "serial": "fdfd",
+            "admin": "fdfdf",
+            "reason": "dfdf",
+            "timestamp": 1774928701333,
+            "staff_name": "Lenikerz",
+            "ip_audit": "45.163.207.26"
+        }
+    }
+]
