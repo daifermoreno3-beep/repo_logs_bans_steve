@@ -1,0 +1,14 @@
+[
+    {
+        "timestamp": "2026-03-31 01:15:22",
+        "user": "Admin_Maestro",
+        "ip": "45.163.207.26",
+        "action": "Creó nueva cuenta de staff",
+        "details": {
+            "new_user": "1",
+            "is_admin": false,
+            "staff_name": "Admin_Maestro",
+            "ip_audit": "45.163.207.26"
+        }
+    }
+]
