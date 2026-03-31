@@ -1,5 +1,16 @@
 [
     {
+        "timestamp": "2026-03-30 23:43:50",
+        "user": "Lenikerz",
+        "ip": "45.163.207.26",
+        "action": "Copió información al portapapeles",
+        "details": {
+            "texto": "[ENC_GENERAL]_Ostin_!.",
+            "staff_name": "Lenikerz",
+            "ip_audit": "45.163.207.26"
+        }
+    },
+    {
         "timestamp": "2026-03-30 23:43:46",
         "user": "Lenikerz",
         "ip": "45.163.207.26",
