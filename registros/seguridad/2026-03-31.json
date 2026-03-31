@@ -1,5 +1,14 @@
 [
     {
+        "timestamp": "2026-03-31 01:38:42",
+        "user": "Lenikerz",
+        "ip": "45.163.207.26",
+        "action": "Cierre de Sesión",
+        "details": {
+            "ip": "45.163.207.26"
+        }
+    },
+    {
         "timestamp": "2026-03-31 01:34:11",
         "user": "Lenikerz",
         "ip": "45.163.207.26",
