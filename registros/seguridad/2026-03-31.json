@@ -1,5 +1,14 @@
 [
     {
+        "timestamp": "2026-03-31 01:28:06",
+        "user": "Lenikerz",
+        "ip": "45.163.207.26",
+        "action": "Inicio de Sesión Exitoso: Lenikerz",
+        "details": {
+            "level": "Staff"
+        }
+    },
+    {
         "timestamp": "2026-03-31 01:17:32",
         "user": "Admin_Maestro",
         "ip": "45.163.207.26",
