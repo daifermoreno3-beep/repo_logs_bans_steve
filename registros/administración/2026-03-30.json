@@ -1,5 +1,14 @@
 [
     {
+        "timestamp": "2026-03-30 23:39:31",
+        "user": "Admin_Maestro",
+        "ip": "45.163.207.26",
+        "action": "Acceso al Dashboard",
+        "details": {
+            "url": "\/dashboard.php"
+        }
+    },
+    {
         "timestamp": "2026-03-30 23:31:04",
         "user": "Admin_Maestro",
         "ip": "45.163.207.26",
