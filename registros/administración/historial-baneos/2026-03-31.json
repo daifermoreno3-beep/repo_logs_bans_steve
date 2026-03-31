@@ -1,0 +1,14 @@
+[
+    {
+        "timestamp": "2026-03-31 01:21:31",
+        "user": "Admin_Maestro",
+        "ip": "45.163.207.26",
+        "action": "Eliminó un baneo",
+        "details": {
+            "id": "fdfd",
+            "nick": "dfd",
+            "staff_name": "Admin_Maestro",
+            "ip_audit": "45.163.207.26"
+        }
+    }
+]
