@@ -1,0 +1,13 @@
+[
+    {
+        "timestamp": "2026-03-30 23:44:51",
+        "user": "Lenikerz",
+        "ip": "45.163.207.26",
+        "action": "Cambió contraseña de staff",
+        "details": {
+            "user_target": "1",
+            "staff_name": "Lenikerz",
+            "ip_audit": "45.163.207.26"
+        }
+    }
+]
