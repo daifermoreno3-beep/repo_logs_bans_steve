@@ -1,5 +1,16 @@
 [
     {
+        "timestamp": "2026-03-31 01:15:25",
+        "user": "Admin_Maestro",
+        "ip": "45.163.207.26",
+        "action": "Eliminó acceso a staff",
+        "details": {
+            "user_deleted": "1",
+            "staff_name": "Admin_Maestro",
+            "ip_audit": "45.163.207.26"
+        }
+    },
+    {
         "timestamp": "2026-03-31 01:15:22",
         "user": "Admin_Maestro",
         "ip": "45.163.207.26",
