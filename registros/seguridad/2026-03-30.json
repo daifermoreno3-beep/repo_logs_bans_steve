@@ -1,5 +1,14 @@
 [
     {
+        "timestamp": "2026-03-30 23:40:27",
+        "user": "Sistema\/Anónimo",
+        "ip": "45.163.207.26",
+        "action": "INTENTO DE ACCESO RECHAZADO: Usuario 'Lenkerz'",
+        "details": {
+            "ip": "45.163.207.26"
+        }
+    },
+    {
         "timestamp": "2026-03-30 23:40:13",
         "user": "Lenikerz",
         "ip": "45.163.207.26",
