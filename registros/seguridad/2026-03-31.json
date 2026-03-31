@@ -1,5 +1,14 @@
 [
     {
+        "timestamp": "2026-03-31 01:17:32",
+        "user": "Admin_Maestro",
+        "ip": "45.163.207.26",
+        "action": "INICIO DE SESIÓN MAESTRO: Admin_Maestro",
+        "details": {
+            "level": "Master"
+        }
+    },
+    {
         "timestamp": "2026-03-31 01:15:27",
         "user": "Admin_Maestro",
         "ip": "45.163.207.26",
