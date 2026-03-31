@@ -1,5 +1,16 @@
 [
     {
+        "timestamp": "2026-03-31 01:03:29",
+        "user": "Admin_Maestro",
+        "ip": "45.163.207.26",
+        "action": "Copió información al portapapeles",
+        "details": {
+            "texto": "Auditoría Cloud Pro",
+            "staff_name": "Admin_Maestro",
+            "ip_audit": "45.163.207.26"
+        }
+    },
+    {
         "timestamp": "2026-03-31 01:01:17",
         "user": "Admin_Maestro",
         "ip": "45.163.207.26",
